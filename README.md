@@ -1,4 +1,4 @@
-- Hello! I am Akash. I'm currently a graduate research scholar.
+- Hello! I am Akash. I'm currently a master's student at IIT Madras.
 - I’m interested in mathematics, programming and all the nitty-gritty that comes with intersection of these.  
 
 <!---
